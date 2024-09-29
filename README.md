@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CunXin1
+- 👋 Hi, I’m @CunXin
 - 👀 I’m interested in car racing, motorcycle, coding, video gaming
 - 🌱 I’m currently learning java algorithm
 - 💞️ I’m looking to collaborate on software engineer
